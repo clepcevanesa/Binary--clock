@@ -1,0 +1,15 @@
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\bin\Debug\net6.0\Binary clock.exe
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\bin\Debug\net6.0\Binary clock.deps.json
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\bin\Debug\net6.0\Binary clock.runtimeconfig.json
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\bin\Debug\net6.0\Binary clock.dll
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\bin\Debug\net6.0\Binary clock.pdb
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\obj\Debug\net6.0\Binary clock.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\obj\Debug\net6.0\Binary clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\obj\Debug\net6.0\Binary clock.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\obj\Debug\net6.0\Binary clock.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\obj\Debug\net6.0\Binary clock.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\obj\Debug\net6.0\Binary clock.dll
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\obj\Debug\net6.0\refint\Binary clock.dll
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\obj\Debug\net6.0\Binary clock.pdb
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\obj\Debug\net6.0\Binary clock.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Vanesa-school\Arhitectura sistemelor de calcul\Binary clock\obj\Debug\net6.0\ref\Binary clock.dll
